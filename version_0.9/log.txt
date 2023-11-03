@@ -1,0 +1,45 @@
+Checking azide molecules...
+
+Found 1 records
+Warning: could not parse molecule 1
+
+
+====
+Finished loading!
+Time: 00:00:00
+Successfully loaded 0 azides (0.0%)
+Following molecules were dropped out:
+1 records contained damaged smiles (100.0%)
+0 molecules contained no azide moiety (0.0%)
+0 molecules contained more than one azide moiety(0.0%)
+
+
+Checking alkyne molecules...
+
+Found 1 records
+Warning: could not parse molecule 1
+
+
+====
+Finished loading!
+Time: 00:00:00
+Successfully loaded 0 alkynes (0.0%)
+Following molecules were dropped out:
+1 records contained damaged smiles (100.0%)
+0 molecules contained no alkyne moiety (0.0%)
+0 molecules contained more than one alkyne moiety(0.0%)
+
+
+Chosen generation parameters:
+
+Both 1,5- and 1,4-isomers are generated
+Products for internal alkynes are kept
+Molecules are filtered according to Lipinsky rules: 
+-logP
+LogBB Clark will be calculated
+Molecules with logBB  less than 0.3 will be dropped
+An output file will be saved in .csv format
+
+
+Invalid azides configuration was entered. Unable to continue
+
